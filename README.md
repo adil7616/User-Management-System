@@ -16,5 +16,4 @@ User Management System is a Spring Boot-based REST API that allows creating, ret
 - **PUT** `/update_user/{id}` - Update user details  
 - **DELETE** `/delete_user/{id}` - Delete a user  
 
-## Demo Video  
-Watch the demo here: [abc.com/videos](abc.com/videos)  
+
